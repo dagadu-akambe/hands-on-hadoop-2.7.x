@@ -11,6 +11,8 @@ Follow below steps to install Hadoop 2.7.3 on windows 10.
 
 After installation on your personal laptop use below URL's for Web Interfaces.
 
-Resource Manager:  http://localhost:8088 \n
-Web UI of the NameNode daemon:  http://localhost:50070 \n
-HDFS NameNode web interface:  http://localhost:8042 \n
+Resource Manager:  http://localhost:8088
+
+Web UI of the NameNode daemon:  http://localhost:50070
+
+HDFS NameNode web interface:  http://localhost:8042
