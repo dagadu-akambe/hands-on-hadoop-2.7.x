@@ -7,3 +7,10 @@ I came across nice article to install single node hadoop 6.0.x on windows 10. I 
 
 Follow below steps to install Hadoop 2.7.3 on windows 10.
 
+... TODO ....
+
+After installation on your personal laptop use below URL's for Web Interfaces.
+
+Resource Manager:  http://localhost:8088
+Web UI of the NameNode daemon:  http://localhost:50070
+HDFS NameNode web interface:  http://localhost:8042
